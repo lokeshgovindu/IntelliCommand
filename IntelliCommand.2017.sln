@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelliCommand", "IntelliCommand\IntelliCommand.2013.csproj", "{1EC556F6-4A44-4FCE-B3E0-B33BD41F9E1A}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelliCommand.2017", "IntelliCommand\IntelliCommand.2017.csproj", "{1EC556F6-4A44-4FCE-B3E0-B33BD41F9E1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
