@@ -20,4 +20,4 @@ Contributors
 - Aditya Mandaleeka | http://mandaleeka.com | @mandaleeka
 - Drake Campbell
 
-[1]:http://visualstudiogallery.msdn.microsoft.com/83f59659-abc1-4bfa-9779-42f687af0481
+[1]:https://marketplace.visualstudio.com/items?itemName=LokeshGovindu.IntelliCommand
